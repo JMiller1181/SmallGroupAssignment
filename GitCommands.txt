@@ -4,3 +4,6 @@ and switches over to it.
 
 git status
 gives status of files in branch 
+
+git add
+Selects and adds files so they are ready to be commited
