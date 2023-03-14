@@ -2,3 +2,5 @@ git checkout - b BranchName
 Creates a new branch titled BranchName
 and switches over to it.
 
+git status
+gives status of files in branch 
