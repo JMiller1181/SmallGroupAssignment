@@ -7,3 +7,6 @@ gives status of files in branch
 
 git add
 Selects and adds files so they are ready to be commited
+
+git pull
+pulls the latest version of the repo
